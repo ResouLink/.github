@@ -1,7 +1,7 @@
 ## 成员
-沈嵘 2235050722  [@Kuraud0](https://github.com/Kuraud00)
-游芳财 2235061325
-邓诗源 2335052610 [@Deng Shiyuan](https://github.com/WeiXianMianDui31001)
+沈嵘 2235050722  [@Kuraud00](https://github.com/Kuraud00)  
+游芳财 2235061325  [@youfangcai](https://github.com/youfangcai)  
+邓诗源 2335052610  [@Deng Shiyuan](https://github.com/WeiXianMianDui31001)  
 
 ## 分工
 | 成员  | 负责部分                              | 贡献度   |
@@ -12,5 +12,6 @@
 
 
 ## 仓库说明
-USST_WebLab_FrontEnd
+[USST-Weblab-Frontend](https://github.com/ResouLink/USST-Weblab-Frontend) 项目前端仓库  
+[USST-Weblab-Backend](https://github.com/ResouLink/USST-Weblab-Backend) 项目后端仓库  
 
